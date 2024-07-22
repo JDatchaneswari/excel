@@ -1,0 +1,14 @@
+Data Acquisition	
+Manual export, time-consuming
+Automated extraction with SQL queries
+
+Data Cleaning	
+Manual sorting, error-prone
+Formulas in Excel and data manipulation functions in SQL
+
+Data Analysis	
+Manual calculations, complex	
+Drag-and-drop analysis and visualizations
+
+Data Visualization
+Static charts, limited interactivity Interactive dashboards and data storytelling capabilities

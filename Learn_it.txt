@@ -1,0 +1,47 @@
+
+Excel
+    1) learnexcel solutions => Projects
+    2) other level's        => Projects
+    3) Exceldemy            => AI+EXCEL
+    4) Excel Beginners      => Projects
+       and Advanced Tips
+    5) LearnIt Training     => Learning
+    
+
+Power BI
+
+    1) Data Tutorials       => Projects
+    2) Chandoo              => Learning
+    3) Learnit training     => Learning
+
+TABLEAU
+ 
+    1) Data tutorials       => Projects + Learning
+    2) Data with baraa      => Learning + Projects 
+
+SQL 
+ 
+    1) Adam Finer           => Project + Learning
+    2) Tech tfq             => Learnings
+    3) Data tutorials       => Projects
+
+PowerPoint
+
+    1)Jatan shah            => Learning
+
+One-On-One Project
+    
+    1) Data Tutorials       => Project
+
+PORTFOLIO
+
+    1) Mo Chen
+    2) Lore So What
+    3) Data Tutorials
+
+Certification:
+
+    1) Tableau               -> Coursera, Jatanshah
+    2) MS PowerBI            -> Coursera, Jatanshah
+    3) Excel                 -> Coursera, Jatanshah
+    4) SQL                   -> Hackerrank,Leetcode Profile,Jatanshah
